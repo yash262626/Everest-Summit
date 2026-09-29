@@ -1,5 +1,7 @@
 # Everest — The Roof of the World
 
+[![Explore Live](https://img.shields.io/badge/🏔️_Explore_Live-Open_Everest-00C7B7?style=for-the-badge)](https://yash262626.github.io/Everest-Summit/)
+
 A cinematic, **scroll-driven journey to the summit of Mount Everest (8,849 m)**. You start in the thin air of the Himalaya, follow the South Col route camp by camp, and reach the top. The page tracks your altitude and the drop in oxygen as you scroll.
 
 Everything is in a single `index.html`: no build step and no server. Open it in a browser or host it anywhere static.
