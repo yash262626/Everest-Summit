@@ -59,7 +59,7 @@ For best results use a desktop browser with hardware acceleration on.
 
 ## License
 
-This project is source-available under the [Yash AIL Source-Available License](LICENSE): you may view, copy and modify it for personal, educational and non-commercial local use. **Deploying/hosting it online and selling it are not allowed.**
+This project is source-available under the [Yash AIL Source-Available License](LICENSE.md): you may view, copy and modify it for personal, educational and non-commercial local use. **Deploying/hosting it online and selling it are not allowed.**
 
 ## Credits
 
