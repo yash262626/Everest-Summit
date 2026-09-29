@@ -57,10 +57,9 @@ Above 8,000 m is flagged as the death zone. Landmarks on the map include the Khu
 
 For best results use a desktop browser with hardware acceleration on.
 
-## Deploy
+## License
 
-- **Netlify:** drag the folder onto app.netlify.com/drop.
-- **GitHub Pages:** Settings → Pages → Deploy from branch → `main` / root.
+This project is source-available under the [Yash AIL Source-Available License](LICENSE): you may view, copy and modify it for personal, educational and non-commercial local use. **Deploying/hosting it online and selling it are not allowed.**
 
 ## Credits
 
